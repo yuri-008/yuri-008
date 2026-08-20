@@ -1,5 +1,7 @@
-## Yuri 
+## Yuri
 
+* Estudante de desinvolvimento front-end.
+* Estudante de desinvolvimento de sistemas.
 <!--
 **yuri-008/yuri-008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
